@@ -1,0 +1,5 @@
+.mapDisplay {
+    display: grid;
+    grid-template-columns: auto;
+    grid-auto-rows: 25px;
+}
